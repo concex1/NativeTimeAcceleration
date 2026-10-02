@@ -471,7 +471,7 @@ MainKey=84
 * **Referencias**: 
 - [SFSE](https://github.com/ianpatt/sfse)
 - [CommonlibSF](https://github.com/libxse/commonlibsf)
-- [Address Library for SFSE Plugins](https://www.nexusmods.com/games/starfield/mods)
+- [Address Library for SFSE Plugins](https://www.nexusmods.com/games/starfield/mods/3256)
 
 
 ### 8.2. Asistencia de IA en el desarrollo

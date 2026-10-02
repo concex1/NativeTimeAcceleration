@@ -282,7 +282,7 @@ En `kPostDataLoad`, antes de registrar los sinks, se ejecuta un conjunto de **pr
 
 * [CommonlibSF](https://github.com/libxse/commonlibsf)
 
-* [Address Library for SFSE Plugins](https://www.nexusmods.com/games/starfield/mods)
+* [Address Library for SFSE Plugins](https://www.nexusmods.com/games/starfield/mods/3256)
 
 
 
